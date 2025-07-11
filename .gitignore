@@ -1,0 +1,53 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment and dependency files
+.env
+.env.*
+*.env
+*.venv/
+.venv/
+venv/
+
+# Config and sensitive files
+config.json
+*.sqlite3
+*.db
+*.log
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+pytest_cache/
+
+# Distribution/build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Misc
+*.bak
+*.tmp
+*.swp
+*.lock
+
+# Ignore example env but NOT the template
+!env.example 
