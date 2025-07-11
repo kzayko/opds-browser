@@ -2,6 +2,8 @@
 
 Графический браузер для просмотра OPDS (Open Publication Distribution System) каталогов с поддержкой навигации, поиска и отображения деталей книг.
 
+**GitHub**: https://github.com/kzayko/opds-browser
+
 ## Возможности
 
 - 🌐 **Навигация по каталогам** - просмотр папок и книг с иконками
@@ -172,14 +174,36 @@ export OPDS_LOG_LEVEL=DEBUG
 python opds_browser_gui.py
 ```
 
-## Лицензия
-
-MIT License
-
 ## Поддержка
 
 При возникновении проблем:
 1. Проверьте подключение к интернету
 2. Убедитесь, что OPDS каталог доступен
 3. Включите DEBUG логи для диагностики
-4. Проверьте формат `config.json` 
+4. Проверьте формат `config.json`
+
+## Участие в разработке
+
+Мы приветствуем вклад в развитие проекта! 
+
+### Как внести свой вклад
+
+1. **Fork репозитория**: https://github.com/kzayko/opds-browser
+2. **Создайте ветку** для новой функции: `git checkout -b feature/amazing-feature`
+3. **Внесите изменения** и зафиксируйте их: `git commit -m 'Add amazing feature'`
+4. **Отправьте изменения** в ваш fork: `git push origin feature/amazing-feature`
+5. **Создайте Pull Request**
+
+### Отчеты об ошибках
+
+Если вы нашли ошибку, создайте issue в репозитории:
+https://github.com/kzayko/opds-browser/issues
+
+### Предложения новых функций
+
+Для предложения новых функций используйте GitHub Discussions:
+https://github.com/kzayko/opds-browser/discussions
+
+## Лицензия
+
+MIT License 

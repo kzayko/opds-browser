@@ -1,5 +1,7 @@
 # История изменений
 
+**GitHub**: https://github.com/kzayko/opds-browser
+
 ## [1.0.0] - 2024-01-XX
 
 ### Добавлено

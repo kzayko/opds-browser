@@ -1,5 +1,7 @@
 # Примеры использования OPDS Browser
 
+**GitHub**: https://github.com/kzayko/opds-browser
+
 ## Базовое использование
 
 ### Запуск с GUI
